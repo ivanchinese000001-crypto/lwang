@@ -17,7 +17,18 @@
 	"分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html", 
 	"直接播放": "1"}},
 
-
+	{"key": "麻豆传媒学院","name": "麻豆传媒学院👊","type": 3,"changeable": 1,
+	"filterable": 1,"api": "csp_XBPQ",
+	"jar": "./jar/xyqxbpq.jar",
+	"style": {"ratio": 1.7},
+	"ext": {  "发布url": "https://mdcmy.cc/",
+	//"搜索url": "http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html", 
+	"搜索url": "https://mdcmy.cc/search/{wd}/{pg}/", 
+	//"分类": "麻豆$1#中字$2#国产$4#日韩$5", 	
+	"分类": "甄选&少女&传媒&日产&无码&猎奇", 
+	"分类名称替换词": "group-category/cate17&group-category/cate30&group-category/cate40&group-category/cate54&group-category/cate146&group-category/cate152",	
+	"分类url": "https://mdcmy.cc/{cateId}/", 
+	"直接播放": "1"}},
 	  
     //{"key":"Xojav","name":"XOJav","type":3,"spider":"https://github.catvod.com/https://raw.githubusercontent.com/350822/Xtvbox/main/pg.jar","api":"csp_Xojav","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"null$$$proxy","style":{"type":"rect","ratio":1.5}},
     
