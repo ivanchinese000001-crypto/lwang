@@ -20,7 +20,7 @@
     
     {"key": "xvideos4中文","name": "🔞xvideos4中文","type": 3,"api": "csp_XBPQ","jar": "./jar/XBPQ.jar","ext": {  "直接播放": "1",  "数组": "<li>&&</li>",  "链接": "href=\"&&\"",  "图片": " src=\"&&\"",  "标题": "title=\"&&\"",  "播放链接前缀": "https://iktvoc.xvideos4.hair/",  "播放标题": ">&&</a>",  "播放链接": "href=\"&&\"",  "分类url": "https://dpmnmv.xvideos4.hair/vodtype/{cateId}-{catePg}.html",  "分类": "女神$21#美女直播$22#人妻$23#动漫$35#无码$30#有码$31#中文字幕$32#三级伦理$36"}},
    
-   {"key":"csp_XYQHiker_ggjav","name": "🔞GGJAV","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/ggjav.json","style": {"type": "rect","ratio": 1.6}},
+   {"key":"csp_XYQHiker_ggjav","name": "🔞GGJAV","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "http://hk-proxy.gitwarp.top:555/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/ggjav.json","style": {"type": "rect","ratio": 1.6}},
    
 	//{"key":"csp_XYQHiker_好看视频+","name": "🔞好看视频+(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/好看视频.json","style": {"type": "rect","ratio": 1.8}},
 	
