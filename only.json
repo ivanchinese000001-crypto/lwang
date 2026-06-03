@@ -16,6 +16,9 @@
 	
 	"分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html", 
 	"直接播放": "1"}},
+
+
+	  
     //{"key":"Xojav","name":"XOJav","type":3,"spider":"https://github.catvod.com/https://raw.githubusercontent.com/350822/Xtvbox/main/pg.jar","api":"csp_Xojav","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"null$$$proxy","style":{"type":"rect","ratio":1.5}},
     
     {"key": "xvideos4中文","name": "🔞xvideos4中文","type": 3,"api": "csp_XBPQ","jar": "./jar/XBPQ.jar","ext": {  "直接播放": "1",  "数组": "<li>&&</li>",  "链接": "href=\"&&\"",  "图片": " src=\"&&\"",  "标题": "title=\"&&\"",  "播放链接前缀": "https://iktvoc.xvideos4.hair/",  "播放标题": ">&&</a>",  "播放链接": "href=\"&&\"",  "分类url": "https://dpmnmv.xvideos4.hair/vodtype/{cateId}-{catePg}.html",  "分类": "女神$21#美女直播$22#人妻$23#动漫$35#无码$30#有码$31#中文字幕$32#三级伦理$36"}},
