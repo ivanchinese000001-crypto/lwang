@@ -21,8 +21,9 @@
 "分类起始页码": "1",
 //"分类链接": "https://hscangku.com/vodshow/{cateId}-{catePg}/",
 //"分类链接": "https://javp1.cc/show/by/{by}/id/{cateId}/page/{catePg}.html",
- "分类链接": "https://javp1.cc/{cateId}?page={catePg}&sort={by}/",
- 
+"分类链接": "https://javp1.cc/{cateId}?page={catePg}&sort={by}/",
+"分类名称": "中文字幕&日本AV&素人&无码影片&国产AV",
+"分类名称替换词": "cn/chinese-subtitle&dm49/cn/new&cn/siro&dm15/cn/uncensored-leak&cn/madou",
 //"分类名称": "自拍偷拍$102#国产传媒$2#探花$20042#日本无码$20068#角色剧情$101#中字$112",
 //"分类名称替换词": "21&31&44&46&47&48&52&57&58&101&22&102&28&51&20&26&27&29&35&85&91&105&107&108",
 "分类截取模式": "1",
@@ -36,7 +37,8 @@
 "分类片单链接加前缀": "https://javp1.cc,
 "分类片单链接加后缀": "",
 "搜索请求头参数": "User-Agent$手机",
-"搜索链接": "https://javp1.cc/tags/page/{pg}/wd/{wd}",
+//"搜索链接": "https://javp1.cc/tags/page/{pg}/wd/{wd}",
+"搜索链接": "https://javp1.cc/cn/search/{wd}?page={pg}", 
 "POST请求数据": "",
 "搜索截取模式": "0",
 "搜索列表数组规则": "list",
@@ -68,7 +70,9 @@
     "选集链接加前缀": "https://javp1.cc",
     "选集链接加后缀": "",
    
-"筛选数据":{},
+"筛选数据":{
+ 
+},
 
 "分析MacPlayer": "0",
 "是否开启手动嗅探": "1",
