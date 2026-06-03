@@ -71,6 +71,162 @@
     "选集链接加后缀": "",
    
 "筛选数据":{
+"cn/chinese-subtitle":[
+{"key":"by",
+  "name":"排序",
+  "value":[
+  {"v":"published_at","n":"最近更新"},
+  {"v":"released_at","n":"发现日期"},
+  {"v":"saved","n":"收藏"},
+  {"v":"today_views","n":"今日浏览"},
+  {"v":"weekly_views","n":"本周浏览"},
+  {"v":"monthly_views","n":"本月浏览"},
+  {"v":"views","n":"总浏览"}
+]}
+],
+"dm49/cn/new":[
+  {"key":"cateId",
+  "name":"日本AV",
+  "value":[
+{"v":"dm49/cn/new","n":"最近更新"}, 
+{"v":"dm27/cn/release","n":"新作上市"}, 
+{"v":"dm15/cn/uncensored-leak","n":"无码流出"}, 
+{"v":"cn/actresses","n":"女优一览"}, 
+//{"v":"cn/actresses/ranking","n":"女优排行 APR 2024"}, 
+{"v":"dm49/cn/genres","n":"类型"}, 
+{"v":"dm/75cn/makers","n":"发行商"}, 
+{"v":"cn/genres/VR","n":"VR"}, 
+{"v":"cn/today-hot","n":"今日热门"}, 
+{"v":"cn/weekly-hot","n":"本週热门"}, 
+{"v":"cn/monthly-hot","n":"本月热门"}]},
+{"key":"by",
+  "name":"排序",
+  "value":[
+  {"v":"published_at","n":"最近更新"},
+  {"v":"released_at","n":"发现日期"},
+  {"v":"saved","n":"收藏"},
+  {"v":"today_views","n":"今日浏览"},
+  {"v":"weekly_views","n":"本周浏览"},
+  {"v":"monthly_views","n":"本月浏览"},
+  {"v":"views","n":"总浏览"}
+]}
+],
+"cn/siro":[
+  {"key":"cateId",
+  "name":"素人",
+  "value":[
+{"v":"cn/siro","n":"SIRO"}, 
+{"v":"dm33/cn/luxu","n":"LUXU"}, 
+{"v":"cn/gana","n":"GANA"}, 
+{"v":"dm19/cn/maan","n":"PRESTIGE PREMIUM"}, 
+{"v":"cn/scute","n":"S-CUTE"}, 
+{"v":"dm35/cn/ara","n":"ARA"}
+]},
+{"key":"by",
+  "name":"排序",
+  "value":[
+  {"v":"published_at","n":"最近更新"},
+  {"v":"released_at","n":"发现日期"},
+  {"v":"saved","n":"收藏"},
+  {"v":"today_views","n":"今日浏览"},
+  {"v":"weekly_views","n":"本周浏览"},
+  {"v":"monthly_views","n":"本月浏览"},
+  {"v":"views","n":"总浏览"}
+]}
+],
+"dm620/cn/uncensored-leak":[
+{"key":"cateId",
+  "name":"排序",
+  "value":[
+ {"v":"dm620/cn/uncensored-leak","n":"无码流出"}, 
+{"v":"dm95/cn/fc2","n":"FC2"}, 
+{"v":"dm631/cn/heyzo","n":"HEYZO"}, 
+{"v":"dm29/cn/tokyohot","n":"东京热"}, 
+{"v":"dm370178/cn/1pondo","n":"一本道"}, 
+{"v":"dm532508/cn/caribbeancom","n":"Caribbeancom"}, 
+{"v":"dm7530/cn/caribbeancompr","n":"Caribbeancompr"}, 
+{"v":"dm558727/cn/10musume","n":"10musume"}, 
+{"v":"dm989/cn/pacopacomama","n":"pacopacomama"}, 
+{"v":"dm135/cn/gachinco","n":"Gachinco"}, 
+{"v":"dm29/cn/xxxav","n":"XXX-AV"}, 
+{"v":"dm24/cn/marriedslash","n":"人妻斩"}, 
+{"v":"dm19/cn/naughty4610","n":"顽皮 4610"}, 
+{"v":"dm22/cn/naughty0930","n":"顽皮 0930"}
+]},
+{"key":"by",
+  "name":"排序",
+  "value":[
+  {"v":"published_at","n":"最近更新"},
+  {"v":"released_at","n":"发现日期"},
+  {"v":"saved","n":"收藏"},
+  {"v":"today_views","n":"今日浏览"},
+  {"v":"weekly_views","n":"本周浏览"},
+  {"v":"monthly_views","n":"本月浏览"},
+  {"v":"views","n":"总浏览"}
+]}
+],
+"dm34/cn/madou":[
+{"key":"cateId",
+  "name":"国产AV",
+  "value":[
+ {"v":"dm34/cn/madou","n":"麻豆传媒"}, 
+{"v":"dm17/cn/twav","n":"TWAV"}, 
+{"v":"dm15/cn/furuke","n":"Furuke"},
+{"v":"dm15/klive","n":"韩国直播"},
+{"v":"dm15/clive","n":"中国直播"}
+]},
+{"key":"by",
+  "name":"排序",
+  "value":[
+  {"v":"published_at","n":"最近更新"},
+  {"v":"released_at","n":"发现日期"},
+  {"v":"saved","n":"收藏"},
+  {"v":"today_views","n":"今日浏览"},
+  {"v":"weekly_views","n":"本周浏览"},
+  {"v":"monthly_views","n":"本月浏览"},
+  {"v":"views","n":"总浏览"}
+]}
+],
+"/vodshow/4":[
+{"key":"by",
+  "name":"排序",
+  "value":[
+  {"v":"","n":"最新"},
+  {"v":"hits","n":"热门"},
+  {"v":"up","n":"点赞"},
+  {"v":"score","n":"评分"}
+]}
+],
+"/vodshow/5":[
+{"key":"by",
+  "name":"排序",
+  "value":[
+  {"v":"","n":"最新"},
+  {"v":"hits","n":"热门"},
+  {"v":"up","n":"点赞"},
+  {"v":"score","n":"评分"}
+]}
+],
+"/vodshow/20":[
+{"key":"by",
+  "name":"排序",
+  "value":[
+  {"v":"","n":"最新"},
+  {"v":"hits","n":"热门"},
+  {"v":"up","n":"点赞"},
+  {"v":"score","n":"评分"}
+]}
+],
+"/vodshow/22":[
+{"key":"by",
+  "name":"排序",
+  "value":[
+  {"v":"","n":"最新"},
+  {"v":"hits","n":"热门"},
+  {"v":"up","n":"点赞"},
+  {"v":"score","n":"评分"}
+]}
+]
  
 },
 
