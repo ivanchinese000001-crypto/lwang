@@ -12,9 +12,9 @@
         "ratio": 1.48
       },
       "api": "csp_GM",
-      "jar": "./jar/GM.jar;md5;a36831ed798998bbf38bb5862c32f96d",
+      "jar": "https://github.com/ivanchinese000001-crypto/lwang/blob/main/jar/GM.jar;md5;a36831ed798998bbf38bb5862c32f96d",
       "ext": {
-        "userScript": "./js/supjav.user.js",
+        "userScript": "https://github.com/ivanchinese000001-crypto/lwang/blob/main/js/supjav.user.js",
         "debug": false,
         "webViewSettings": {
           "blockNetworkImage": true,
