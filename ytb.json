@@ -1,0 +1,31 @@
+{
+    "warningText": "禁止任何商业用途，仅限个人学习爬虫原理使用。",
+    "sites": [
+        {
+            "key": "YTB|挂代",
+            "name": "YTB|挂代",
+            "type": 3,
+            "api": "./lib/apiv19ytb6.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "ext": {
+                "youtube_txt": "http://000.hfr1107.top/lz/json/youtube.json"
+            },
+            "filterable": 1
+        }
+    ],
+    "lives": [
+        {
+            "name": "ytb直播",
+            "type": 3,
+            "api": "./lib/apiv51ytbzb.py",
+            "ext": {
+                "channels": "./lib/油管直播.txt"
+            }
+        }
+    ]
+}
