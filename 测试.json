@@ -18,8 +18,8 @@
                 "youtube_txt": "http://000.hfr1107.top/lz/json/youtube.json"
             },
             "filterable": 1
-        }
-    ],
+        },
+   
  
 		{
             "key": "youtub.py",
