@@ -53,7 +53,7 @@
     "搜索片单标题": ".detail&&a&&Text",
     "搜索片单链接": "a&&href",
     "搜索片单副标题":".duration&&Text+'👁️'+.detail-item&&span,0&&Text",
-    "搜索片单链接加前缀": "https://123av.com/ch/",
+    "搜索片单链接加前缀": "https://123av.com/cn/",
     "搜索片单链接加后缀": "",
        //--------
          "链接是否直接播放": "1",
@@ -120,9 +120,6 @@
 {"v":"makers/tokyo-hot","n":"tokyo-hot"},
 {"v":"makers/xxx-av","n":"XXX-AV"}
 ]}],
-
-
-
 
 
 "23":[
