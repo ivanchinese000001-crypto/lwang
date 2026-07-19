@@ -58,7 +58,7 @@
     {"key":"csp_XYQHiker_missav.app","name": "🔞MissAV.app","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.catvod.com/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/missav.app.json","style": {"type": "rect","ratio": 1.6}},
     {"key":"csp_XYQHiker_netflav","name": "🔞Netflav①","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.catvod.com/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/netflav.json","style": {"type": "rect","ratio": 1.6}},
    // {"key": "csp_Netflav","name": "🔞Netflav②","type": 3,"api": "csp_Netflav","jar":"./jar/pg.jar","changeable": 1,"filterable": 0,"timeout": 60},
-    {"key":"csp_XYQHiker_njav123","name": "🔞123av","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.catvod.com/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/njav123.json","style": {"type": "rect","ratio": 1.6}},
+    {"key":"csp_XYQHiker_njav123","name": "🔞123av","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.catvod.com/https://raw.githubusercontent.com/ivanchinese000001-crypto/lwang/refs/heads/main/XYQHike/njav123.json","style": {"type": "rect","ratio": 1.6}},
     {"key":"csp_XYQHiker_njav.com","name": "🔞Njav.com","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.catvod.com/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/njav.com.json","style": {"type": "rect","ratio": 1.6}},
   
 	
