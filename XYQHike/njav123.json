@@ -7,7 +7,7 @@
     "图片是否需要代理":"0",
     "是否开启获取首页数据":"1",
 	 //首页推荐数据获取链接
-    "首页推荐链接": "https://123av.com/zh/dm5",
+    "首页推荐链接": "https://123av.com/cn",
     //首页推荐列表数组截取。
     "首页列表数组规则": ".box-item-list",
     //首页推荐片单列表数组定位。
@@ -24,14 +24,14 @@
     //首页推荐片单副标题
     "首页片单副标题":".duration&&Text+'👁️'+.detail-item&&span,0&&Text",
     //首页推荐片单链接补前缀  
-    "首页片单链接加前缀": "https://123av.com/zh/dm5",
+    "首页片单链接加前缀": "https://123av.com/cn",
     //首页推荐片单链接补后缀
     "首页片单链接加后缀": "",
     "分类起始页码": "1",
     //"分类链接": "https://www.l0l.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html",
-	"分类链接": "https://123av.com/zh/{cateId}?page={catePg}",
-    "分类名称": "JAV&业余&未经审查&",
-    "分类名称替换词": "censored&tags/siro&uncensored&",
+	"分类链接": "https://123av.com/cn/{cateId}?page={catePg}",
+    "分类名称": "类型&业余&无码&",
+    "分类名称替换词": "censored&tags/siro&makers/fc2&",
     //"筛选数据":{},
     "分类截取模式": "1",
     "分类列表数组规则": ".box-item-list&&.box-item",
@@ -40,11 +40,11 @@
     "分类片单链接": "a&&href",//替换规则
     "分类片单图片": "img&&data-src",
     "分类片单副标题":".duration&&Text+'👁️'+.detail-item&&span,0&&Text",
-    "分类片单链接加前缀": "https://123av.com/zh/",
+    "分类片单链接加前缀": "https://123av.com/cn/",
     "分类片单链接加后缀": "",
     "搜索请求头参数":"User-Agent$PC_UA",
     
-    "搜索链接": "https://123av.com/zh/search?keyword={wd}",
+    "搜索链接": "https://123av.com/cn/search?keyword={wd}",
     "POST请求数据":"0",
     "搜索截取模式": "1",
     "搜索列表数组规则": ".box-item-list&&.box-item",
@@ -53,7 +53,7 @@
     "搜索片单标题": ".detail&&a&&Text",
     "搜索片单链接": "a&&href",
     "搜索片单副标题":".duration&&Text+'👁️'+.detail-item&&span,0&&Text",
-    "搜索片单链接加前缀": "https://123av.com/zh/",
+    "搜索片单链接加前缀": "https://123av.com/ch/",
     "搜索片单链接加后缀": "",
        //--------
          "链接是否直接播放": "1",
@@ -105,25 +105,20 @@
 {"v":"tags/200gana","n":"200GANA"},
 {"v":"tags/prestige-premium","n":"PRESTIGE PREMIUM"},
 {"v":"tags/s-cute","n":"S-CUTE"},
-{"v":"tags/261ara","n":"ARA"}
+{"v":"tags/261ara","n":"ARA"},
+{"v":"tags/390jac","n":"390JAC"}  
 ]}],
-"uncensored":[
+"makers/fc2":[
   {"key":"cateId","name":"分类","value":[
 
-{"v":"uncensored-leaked","n":"泄露未审查"},
-{"v":"tags/fc2","n":"FC2"},
-{"v":"tags/heyzo","n":"HEYZO"},
-{"v":"tags/tokyo-hot","n":"Tokyo-Hot"},
-{"v":"tags/1pondo","n":"1pondo"},
-{"v":"tags/caribbeancom","n":"Caribbeancom"},
-{"v":"tags/caribbeancompr","n":"Caribbeancompr"},
-{"v":"tags/10musume","n":"10musume"},
-{"v":"tags/pacopacomama","n":"pacopacomama"},
-{"v":"tags/gachig","n":"Gachinco"},
-{"v":"tags/xxx-av","n":"XXX-AV"},
-{"v":"tags/c0930","n":"C0930"},
-{"v":"tags/h4610","n":"H4610"},
-{"v":"tags/h0930","n":"H0930"}
+{"v":"makers/fc2","n":"FC2"},
+{"v":"makers/heyzo","n":"HEYZO"},
+{"v":"makers/1pondo","n":"1pondo"},
+{"v":"makers/caribbeancom","n":"Caribbeancom"},
+{"v":"makers/10musume","n":"10musume"},
+{"v":"makers/pacopacomama","n":"pacopacomama"},
+{"v":"makers/tokyo-hot","n":"tokyo-hot"},
+{"v":"makers/xxx-av","n":"XXX-AV"}
 ]}],
 
 
