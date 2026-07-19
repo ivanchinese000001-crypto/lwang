@@ -6,7 +6,7 @@
   //https://github.catvod.com/https://raw.githubusercontent.com/serein2494/TVBOX/main/0914-only-sex.json  
   //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
   "sites": [
-    {"key": "麻豆","name": "👊【撸到出血為止！-麻豆】👊","type": 3,"changeable": 1,
+    {"key": "麻豆","name": "🔞黄色仓库啦(免梯)","type": 3,"changeable": 1,
 	"filterable": 1,"api": "csp_XBPQ",
 	"jar": "./jar/xyqxbpq.jar",
 	"style": {"ratio": 1.7},
