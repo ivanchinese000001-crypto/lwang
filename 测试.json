@@ -29,17 +29,9 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/ivanchinese000001-crypto/lwang/refs/heads/main/py/gogogo.py"
-        },
-				
-		{            
-            "key": "光鸭社区.py",            
-            "name": "光鸭社区.py",            
-            "type": 3,            
-            "searchable": 1,            
-            "quickSearch": 1,            
-            "filterable": 1,            
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/ivanchinese000001-crypto/lwang/refs/heads/main/py/光鸭社区.py"        
         }
+				
+		
     ],
     "lives": [
         {
