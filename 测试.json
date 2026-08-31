@@ -39,6 +39,15 @@
              "quickSearch": 1,            
              "filterable": 1,            
              "api": "https://ghfast.top/https://raw.githubusercontent.com/ivanchinese000001-crypto/lwang/refs/heads/main/js/拾光影视.js"        
+         },	
+		{            
+             "key": "口爆大全",            
+             "name": "口爆大全",            
+             "type": 3,            
+             "searchable": 1,            
+             "quickSearch": 1,            
+             "filterable": 1,            
+             "api": "https://ghfast.top/https://raw.githubusercontent.com/ivanchinese000001-crypto/lwang/refs/heads/main/py/口爆大全AV.py"        
          },		
 		{            
              "key": "教授",            
