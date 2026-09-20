@@ -20,6 +20,21 @@
 	"分类url": "http://gcmd.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html", 	
 	"直接播放": "1"}},
 
+{
+            "key": "吞精兽",
+            "name": "✨吞精兽✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar", 
+           "ext": {
+            "请求头": "User-Agent$MOBILE_UA",
+      "编码": "UTF-8", "直接播放": "1",
+"分类": "国产自拍$20#字符丝袜$21#强奸乱伦$22#教师学生$23#素人系列$24#人妻熟女$25#日韩无码$26#日韩有码$27#中文字幕$28#欧美风情$29#经典伦理$30#卡通动漫$31#",
+          "分类url": "https://mkg.tjs4.beer//vodtype/{cateId}-{catePg}.html"
+            }
+        },
+
+		
 
 	  
     //{"key":"Xojav","name":"XOJav","type":3,"spider":"https://github.catvod.com/https://raw.githubusercontent.com/350822/Xtvbox/main/pg.jar","api":"csp_Xojav","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"null$$$proxy","style":{"type":"rect","ratio":1.5}},
