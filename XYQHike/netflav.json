@@ -13,7 +13,7 @@
 "首页片单是否Jsoup写法": "1",
 "首页片单标题": ".grid_0_title&&Text",
 "首页片单链接": "a&&href",
-"首页片单图片": "img&&src",
+"首页片单图片": "img&&img src",
 "首页片单副标题": ".grid_0_date&&Text",
 "首页片单链接加前缀": "https://netflav5.com",
 "首页片单链接加后缀": "",
@@ -28,7 +28,7 @@
 "分类片单是否Jsoup写法": "1",
 "分类片单标题": ".grid_0_title&&Text",
 "分类片单链接": "a&&href",
-"分类片单图片": "img&&src",
+"分类片单图片": "img&&img src",
 "分类片单副标题": ".grid_0_date&&Text",
 
 "分类片单链接加前缀": "https://netflav5.com/video?id=",
