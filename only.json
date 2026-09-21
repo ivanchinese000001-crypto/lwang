@@ -33,13 +33,10 @@
           "分类url": "https://mkg.tjs4.beer//vodtype/{cateId}-{catePg}.html"
             }
         },
-
-		
-
 	  
     //{"key":"Xojav","name":"XOJav","type":3,"spider":"https://github.catvod.com/https://raw.githubusercontent.com/350822/Xtvbox/main/pg.jar","api":"csp_Xojav","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"null$$$proxy","style":{"type":"rect","ratio":1.5}},
     
-    {"key": "xvideos4中文","name": "🔞xvideos4中文","type": 3,"api": "csp_XBPQ","jar": "./jar/XBPQ.jar","ext": {  "直接播放": "1",  "数组": "<li>&&</li>",  "链接": "href=\"&&\"",  "图片": " src=\"&&\"",  "标题": "title=\"&&\"",  "播放链接前缀": "https://iktvoc.xvideos4.hair/",  "播放标题": ">&&</a>",  "播放链接": "href=\"&&\"",  "分类url": "https://dpmnmv.xvideos4.hair/vodtype/{cateId}-{catePg}.html",  "分类": "女神$21#美女直播$22#人妻$23#动漫$35#无码$30#有码$31#中文字幕$32#三级伦理$36"}},
+    //{"key": "xvideos4中文","name": "🔞xvideos4中文","type": 3,"api": "csp_XBPQ","jar": "./jar/XBPQ.jar","ext": {  "直接播放": "1",  "数组": "<li>&&</li>",  "链接": "href=\"&&\"",  "图片": " src=\"&&\"",  "标题": "title=\"&&\"",  "播放链接前缀": "https://iktvoc.xvideos4.hair/",  "播放标题": ">&&</a>",  "播放链接": "href=\"&&\"",  "分类url": "https://dpmnmv.xvideos4.hair/vodtype/{cateId}-{catePg}.html",  "分类": "女神$21#美女直播$22#人妻$23#动漫$35#无码$30#有码$31#中文字幕$32#三级伦理$36"}},
    
    {"key":"csp_XYQHiker_ggjav","name": "🔞GGJAV(魔法)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.catvod.com/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/ggjav.json","style": {"type": "rect","ratio": 1.6}},
    
@@ -47,15 +44,15 @@
 	
 	//{"key":"csp_XYQHiker_hsck1","name": "🔞黄色仓库①","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.catvod.com/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/黄色仓库11.json","style": {"type": "rect","ratio": 1.6}},
 	
-	{"key":"csp_XYQHiker_javp","name": "🔞javp社区(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.catvod.com/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/javp.json","style": {"type": "rect","ratio": 1.6}},
+	//{"key":"csp_XYQHiker_javp","name": "🔞javp社区(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.catvod.com/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/javp.json","style": {"type": "rect","ratio": 1.6}},
 	
-	{"key":"csp_XYQHiker_bad","name": "🔞Bad.news(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.catvod.com/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/bad.json","style": {"type": "rect","ratio": 1.8}},
-{"key":"csp_XYQHiker_bad搜索1","name": "🔞Bad.news搜索AV(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.catvod.com/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/bad搜索1.json","style": {"type": "rect","ratio": 1.8}},
+	//{"key":"csp_XYQHiker_bad","name": "🔞Bad.news(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.catvod.com/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/bad.json","style": {"type": "rect","ratio": 1.8}},
+//{"key":"csp_XYQHiker_bad搜索1","name": "🔞Bad.news搜索AV(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.catvod.com/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/bad搜索1.json","style": {"type": "rect","ratio": 1.8}},
 //{"key":"csp_XYQHiker_bad搜索2","name": "🔞Bad.news搜索动漫(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.catvod.com/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/bad搜索2.json","style": {"type": "rect","ratio": 1.8}},
 
 {"key":"csp_XYQHiker_52av论坛","name": "🔞52av论坛(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.catvod.com/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/52av2.json","style": {"type": "rect","ratio": 1.8}},
-{"key":"csp_XYQHiker_御姐诱惑","name": "🔞御姐诱惑(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.catvod.com/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/御姐诱惑.json","style": {"type": "rect","ratio": 1.6}},
-	{"key":"csp_XYQHiker_5x社区","name": "🔞5x社区(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.catvod.com/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/5x社区.json","style": {"type": "rect","ratio": 1.6}},
+//{"key":"csp_XYQHiker_御姐诱惑","name": "🔞御姐诱惑(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.catvod.com/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/御姐诱惑.json","style": {"type": "rect","ratio": 1.6}},
+	{"key":"csp_XYQHiker_5x社区","name": "🔞5x社区(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.catvod.com/https://raw.githubusercontent.com/ivanchinese000001-crypto/lwang/main/XYQHike/5x社区.json","style": {"type": "rect","ratio": 1.6}},
    {"key":"csp_XYQHiker_小嫂子av","name": "🔞小嫂子AV(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.catvod.com/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/小嫂子av.json","style": {"type": "rect","ratio": 1.6}},
 	{"key":"JAVDAYTV","name":"🔞JAVDAYTV(XYQHiker)","type":3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.catvod.com/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/javday.json","style": {"type": "rect","ratio": 1.6}},
 	//{"key":"csp_XYQHiker_兄弟","name": "🔞AV兄弟","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.catvod.com/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/av兄弟.json","style": {"type": "rect","ratio": 1.6}},
