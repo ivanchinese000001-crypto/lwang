@@ -1,5 +1,6 @@
 {
-  "spider": "https://mpimg.cn/down.php/d479d37ee36fa366b646f77d17b76fb1.jar",
+  //"spider": "https://mpimg.cn/down.php/d479d37ee36fa366b646f77d17b76fb1.jar",
+  "spider": "./jar/spider.jar",
   "logo": "https://mpimg.cn/down.php/7c35e9376677a03556efe5193bf23cec.jpg",
   "sites": [
     {
