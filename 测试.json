@@ -19,17 +19,6 @@
             },
             "filterable": 1
         },
-   
- 
-		{
-            "key": "youtub.py",
-            "name": "『youtub』[播]",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/ivanchinese000001-crypto/lwang/refs/heads/main/py/gogogo.py"
-        },
 
 		{            
              "key": "拾光影视.js",            
